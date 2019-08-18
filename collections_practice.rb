@@ -39,5 +39,5 @@ end
   end   
   
 def sum_array
-  array.inject{ |num| num*
+  array.inject{ |sum, n| num*
 end 

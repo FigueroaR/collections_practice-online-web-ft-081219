@@ -38,4 +38,6 @@ end
     array.select{|word| word.start_with? ("a")}
   end   
   
-def 
+def sum_array
+  array.inject{ |num| num*
+end 

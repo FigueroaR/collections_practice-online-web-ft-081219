@@ -34,4 +34,6 @@ def kesha_maker(array)
   return kesha
 end 
     
-  def find_a
+  def find_a(array)
+    array.start_with? do 
+  end   

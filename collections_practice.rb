@@ -31,7 +31,7 @@ def kesha_maker(array)
     word_array[2] = "$"
     kesha << word_array.join
   end
-  kesha
+  return kesha
 end 
     
     
